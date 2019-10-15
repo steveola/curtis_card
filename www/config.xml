@@ -64,7 +64,7 @@
 
     <!-- Define app icon and splashscreen for each platform. -->
     <icon src="icon.png" />
-
+     <splash src="icon.png" />
 
     <!--
         Define access to external domains.
