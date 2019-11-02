@@ -86,11 +86,12 @@
 
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
+    <allow-intent href="data*" />
     <allow-intent href="tel:*" />
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-     <allow-ntent href="ftp:*" />
+     <allow-intent href="ftp:*" />
     <platform name="android">
         <allow-intent href="market:*" />
     </platform>
